@@ -26,6 +26,7 @@ do
 	;;
 
 	"QUIT")
+		killall tail
 		exit
 	;;
 
