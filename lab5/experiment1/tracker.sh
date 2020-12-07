@@ -1,18 +1,20 @@
 #!/bin/bash
 
-if [[ $# -ne 3 ]]
-then
-	echo "Three parameters expected: report_file, ram_file, swap_file to added information about experiment"
-	exit
-fi
+#if [[ $# -ne 3 ]]
+#then
+#	echo "Three parameters expected: report_file, ram_file, swap_file to added information about experiment"
+#	exit
+#fi
 
-report_file=$1
-ram_file=$2
-swap_file=$3
+report_file="report2.txt"
+ram_file="ram2.log"
+swap_file="swap2.log"
+time_file="time2.log"
 
 > "$report_file"
 > "$ram_file"
 > "$swap_file"
+> "$time_file"
 
 while [[ true ]]
 do
@@ -28,8 +30,9 @@ do
 		#memory info
 		echo "Informattion about memory:" >> "$report_file"
 		awk '$1 == "MiB" || $1 == "PID" {print $0}' cur_top >> "$report_file"
-		awk '$2 == "Mem" {print $3 " " $cur_time}' cur_top >> "$ram_file"
-		awk '$2 == "Swap" {print $3 " " $cur_time}' cur_top >> "$swap_file"
+		awk '$2 == "Mem" {print $6}' cur_top >> "$ram_file"
+		awk '$2 == "Swap:" {print $5}' cur_top >> "$swap_file"
+		echo "$cur_time" >> "$time_file"
 
 		#skript info
 		echo "Information about mem.bash:" >> "$report_file"
