@@ -1,0 +1,1599 @@
+Time: 11:08:55 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1261.1 free,    496.8 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1222.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  241100  21744   3004 R  41.2   1.2   0:01.37 mem.bash
+  11362 user      20   0  241100  21692   2944 R  41.2   1.2   0:01.36 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  241100  21744   3004 R  41.2   1.2   0:01.37 mem.bash
+  11362 user      20   0  241100  21692   2944 R  41.2   1.2   0:01.36 mem2.bash
+  11364 user      20   0  274140   4424   3852 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:08:56 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1243.1 free,    514.8 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1204.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  250208  30984   3004 R  47.1   1.7   0:02.06 mem.bash
+  11362 user      20   0  250340  30932   2944 R  47.1   1.7   0:02.05 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  250208  30984   3004 R  47.1   1.7   0:02.06 mem.bash
+  11362 user      20   0  250340  30932   2944 R  47.1   1.7   0:02.05 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:08:58 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1224.5 free,    533.4 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1185.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  259712  40224   3004 R  38.9   2.1   0:02.74 mem.bash
+  11362 user      20   0  259844  40436   2944 R  38.9   2.2   0:02.73 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  259712  40224   3004 R  38.9   2.1   0:02.74 mem.bash
+  11362 user      20   0  259844  40436   2944 R  38.9   2.2   0:02.73 mem2.bash
+  11392 user      20   0  274140   4376   3804 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:08:59 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1206.4 free,    551.6 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1167.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  268952  49464   3004 R  41.2   2.6   0:03.41 mem.bash
+  11362 user      20   0  269084  49676   2944 R  41.2   2.7   0:03.42 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  268952  49464   3004 R  41.2   2.6   0:03.41 mem.bash
+  11362 user      20   0  269084  49676   2944 R  41.2   2.7   0:03.42 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:01 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1187.9 free,    570.0 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1148.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  278456  58916   2944 R  47.1   3.1   0:04.11 mem2.bash
+  11361 user      20   0  278456  58968   3004 R  41.2   3.2   0:04.10 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  278456  58916   2944 R  47.1   3.1   0:04.11 mem2.bash
+  11361 user      20   0  278456  58968   3004 R  41.2   3.2   0:04.10 mem.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:02 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1169.6 free,    588.3 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1130.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  287828  68420   2944 R  50.0   3.7   0:04.80 mem2.bash
+  11361 user      20   0  287828  68472   3004 R  38.9   3.7   0:04.79 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  287828  68420   2944 R  50.0   3.7   0:04.80 mem2.bash
+  11361 user      20   0  287828  68472   3004 R  38.9   3.7   0:04.79 mem.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:03 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1151.7 free,    606.2 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1112.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  297068  77712   3004 R  44.4   4.2   0:05.47 mem.bash
+  11362 user      20   0  296936  77396   2944 R  38.9   4.1   0:05.47 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  297068  77712   3004 R  44.4   4.2   0:05.47 mem.bash
+  11362 user      20   0  296936  77396   2944 R  38.9   4.1   0:05.47 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:05 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1133.6 free,    624.3 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1094.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  306176  86636   2944 R  52.9   4.6   0:06.16 mem2.bash
+  11361 user      20   0  306176  86688   3004 R  41.2   4.6   0:06.15 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  306176  86636   2944 R  52.9   4.6   0:06.16 mem2.bash
+  11361 user      20   0  306176  86688   3004 R  41.2   4.6   0:06.15 mem.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:06 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1115.7 free,    642.3 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1076.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  315680  96192   3004 R  42.1   5.1   0:06.85 mem.bash
+  11362 user      20   0  315152  95612   2944 R  42.1   5.1   0:06.84 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  315680  96192   3004 R  42.1   5.1   0:06.85 mem.bash
+  11362 user      20   0  315152  95612   2944 R  42.1   5.1   0:06.84 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:08 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1097.7 free,    660.2 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1058.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  324788 105432   3004 R  38.9   5.6   0:07.52 mem.bash
+  11362 user      20   0  324392 104852   2944 R  38.9   5.6   0:07.52 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  324788 105432   3004 R  38.9   5.6   0:07.52 mem.bash
+  11362 user      20   0  324392 104852   2944 R  38.9   5.6   0:07.52 mem2.bash
+  11490 user      20   0  274140   4420   3848 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:09:09 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1079.7 free,    678.2 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1040.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  333896 114408   3004 R  41.2   6.1   0:08.20 mem.bash
+  11362 user      20   0  333632 114356   2944 R  41.2   6.1   0:08.21 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  333896 114408   3004 R  41.2   6.1   0:08.20 mem.bash
+  11362 user      20   0  333632 114356   2944 R  41.2   6.1   0:08.21 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:11 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1061.0 free,    696.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1022.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  343532 124176   3004 R  41.2   6.6   0:08.90 mem.bash
+  11362 user      20   0  343136 123596   2944 R  41.2   6.6   0:08.91 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  343532 124176   3004 R  41.2   6.6   0:08.90 mem.bash
+  11362 user      20   0  343136 123596   2944 R  41.2   6.6   0:08.91 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:12 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1042.8 free,    715.2 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.   1003.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  352904 133416   3004 R  41.2   7.1   0:09.59 mem.bash
+  11362 user      20   0  352376 133100   2944 R  41.2   7.1   0:09.59 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  352904 133416   3004 R  41.2   7.1   0:09.59 mem.bash
+  11362 user      20   0  352376 133100   2944 R  41.2   7.1   0:09.59 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:13 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1024.6 free,    733.3 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    985.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  362012 142656   3004 R  50.0   7.6   0:10.29 mem.bash
+  11362 user      20   0  361748 142340   2944 R  38.9   7.6   0:10.28 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  362012 142656   3004 R  50.0   7.6   0:10.29 mem.bash
+  11362 user      20   0  361748 142340   2944 R  38.9   7.6   0:10.28 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:15 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,   1006.4 free,    751.5 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    967.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  371252 151896   3004 R  38.9   8.1   0:10.96 mem.bash
+  11362 user      20   0  371120 151580   2944 R  38.9   8.1   0:10.96 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  371252 151896   3004 R  38.9   8.1   0:10.96 mem.bash
+  11362 user      20   0  371120 151580   2944 R  38.9   8.1   0:10.96 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:16 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    988.2 free,    769.7 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    949.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  380360 161084   2944 R  56.2   8.6   0:11.65 mem2.bash
+  11361 user      20   0  380624 161136   3004 R  43.8   8.6   0:11.64 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  380360 161084   2944 R  56.2   8.6   0:11.65 mem2.bash
+  11361 user      20   0  380624 161136   3004 R  43.8   8.6   0:11.64 mem.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:18 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    970.2 free,    787.8 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    931.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  389864 170376   3004 R  47.1   9.1   0:12.32 mem.bash
+  11362 user      20   0  389600 170060   2944 R  41.2   9.1   0:12.31 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  389864 170376   3004 R  47.1   9.1   0:12.32 mem.bash
+  11362 user      20   0  389600 170060   2944 R  41.2   9.1   0:12.31 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:19 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    952.1 free,    805.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    913.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  398840 179300   2944 R  52.9   9.6   0:13.00 mem2.bash
+  11361 user      20   0  399104 179880   3004 R  47.1   9.6   0:13.00 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  398840 179300   2944 R  52.9   9.6   0:13.00 mem2.bash
+  11361 user      20   0  399104 179880   3004 R  47.1   9.6   0:13.00 mem.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:21 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    934.0 free,    823.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    895.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  408344 188856   3004 R  41.2  10.1   0:13.68 mem.bash
+  11362 user      20   0  408080 188540   2944 R  41.2  10.1   0:13.68 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  408344 188856   3004 R  41.2  10.1   0:13.68 mem.bash
+  11362 user      20   0  408080 188540   2944 R  41.2  10.1   0:13.68 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:22 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    915.9 free,    842.0 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    876.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  417452 198096   3004 R  38.9  10.6   0:14.36 mem.bash
+  11362 user      20   0  417452 198044   2944 R  38.9  10.6   0:14.36 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  417452 198096   3004 R  38.9  10.6   0:14.36 mem.bash
+  11362 user      20   0  417452 198044   2944 R  38.9  10.6   0:14.36 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:23 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    898.0 free,    859.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    859.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  426560 207072   3004 R  41.2  11.1   0:15.05 mem.bash
+  11362 user      20   0  426560 207284   2944 R  41.2  11.1   0:15.05 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  426560 207072   3004 R  41.2  11.1   0:15.05 mem.bash
+  11362 user      20   0  426560 207284   2944 R  41.2  11.1   0:15.05 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:25 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    880.2 free,    877.7 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    841.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  435668 216312   3004 R  47.1  11.6   0:15.73 mem.bash
+  11362 user      20   0  435800 216260   2944 R  47.1  11.6   0:15.73 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  435668 216312   3004 R  47.1  11.6   0:15.73 mem.bash
+  11362 user      20   0  435800 216260   2944 R  47.1  11.6   0:15.73 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:26 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    862.1 free,    895.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    823.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  444908 225552   3004 R  41.2  12.1   0:16.41 mem.bash
+  11362 user      20   0  445040 225500   2944 R  41.2  12.1   0:16.41 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  444908 225552   3004 R  41.2  12.1   0:16.41 mem.bash
+  11362 user      20   0  445040 225500   2944 R  41.2  12.1   0:16.41 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:28 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    843.6 free,    914.4 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    804.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  454412 235056   3004 R  47.1  12.6   0:17.10 mem.bash
+  11362 user      20   0  454412 235004   2944 R  41.2  12.6   0:17.10 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  454412 235056   3004 R  47.1  12.6   0:17.10 mem.bash
+  11362 user      20   0  454412 235004   2944 R  41.2  12.6   0:17.10 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:29 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    825.7 free,    932.2 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    786.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  463652 244244   2944 R  50.0  13.1   0:17.79 mem2.bash
+  11361 user      20   0  463520 244032   3004 R  43.8  13.0   0:17.78 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  463652 244244   2944 R  50.0  13.1   0:17.79 mem2.bash
+  11361 user      20   0  463520 244032   3004 R  43.8  13.0   0:17.78 mem.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:31 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    807.6 free,    950.3 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    768.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  473024 253484   2944 R  42.1  13.5   0:18.48 mem2.bash
+  11361 user      20   0  472628 253272   3004 R  36.8  13.5   0:18.47 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  473024 253484   2944 R  42.1  13.5   0:18.48 mem2.bash
+  11361 user      20   0  472628 253272   3004 R  36.8  13.5   0:18.47 mem.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:32 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    789.7 free,    968.2 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    750.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  482000 262512   3004 R  44.4  14.0   0:19.16 mem.bash
+  11362 user      20   0  481868 262460   2944 R  38.9  14.0   0:19.15 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  482000 262512   3004 R  44.4  14.0   0:19.16 mem.bash
+  11362 user      20   0  481868 262460   2944 R  38.9  14.0   0:19.15 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:33 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    771.5 free,    986.4 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    732.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  491240 271752   3004 R  38.9  14.5   0:19.84 mem.bash
+  11362 user      20   0  491372 271964   2944 R  38.9  14.5   0:19.84 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  491240 271752   3004 R  38.9  14.5   0:19.84 mem.bash
+  11362 user      20   0  491372 271964   2944 R  38.9  14.5   0:19.84 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:35 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    753.5 free,   1004.4 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    714.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  500348 280992   3004 R  44.4  15.0   0:20.52 mem.bash
+  11362 user      20   0  500480 280940   2944 R  38.9  15.0   0:20.52 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  500348 280992   3004 R  44.4  15.0   0:20.52 mem.bash
+  11362 user      20   0  500480 280940   2944 R  38.9  15.0   0:20.52 mem2.bash
+  11756 user      20   0  274140   4420   3848 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:09:36 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    735.3 free,   1022.6 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    696.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  509720 290444   2944 R  44.4  15.5   0:21.21 mem2.bash
+  11361 user      20   0  509720 290232   3004 R  38.9  15.5   0:21.20 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  509720 290444   2944 R  44.4  15.5   0:21.21 mem2.bash
+  11361 user      20   0  509720 290232   3004 R  38.9  15.5   0:21.20 mem.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:38 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    717.2 free,   1040.7 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    678.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  519224 299736   3004 R  44.4  16.0   0:21.90 mem.bash
+  11362 user      20   0  518828 299420   2944 R  38.9  16.0   0:21.88 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  519224 299736   3004 R  44.4  16.0   0:21.90 mem.bash
+  11362 user      20   0  518828 299420   2944 R  38.9  16.0   0:21.88 mem2.bash
+  11784 user      20   0  274140   4452   3880 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:09:39 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    699.1 free,   1058.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    660.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  528332 308976   3004 R  43.8  16.5   0:22.57 mem.bash
+  11362 user      20   0  528200 308660   2944 R  43.8  16.5   0:22.57 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  528332 308976   3004 R  43.8  16.5   0:22.57 mem.bash
+  11362 user      20   0  528200 308660   2944 R  43.8  16.5   0:22.57 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:41 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    681.0 free,   1076.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    642.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  537440 318216   3004 R  43.8  17.0   0:23.25 mem.bash
+  11362 user      20   0  537440 318164   2944 R  43.8  17.0   0:23.25 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  537440 318216   3004 R  43.8  17.0   0:23.25 mem.bash
+  11362 user      20   0  537440 318164   2944 R  43.8  17.0   0:23.25 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:42 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    663.0 free,   1094.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    624.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  546812 327456   3004 R  41.2  17.5   0:23.93 mem.bash
+  11362 user      20   0  546548 327140   2944 R  41.2  17.5   0:23.93 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  546812 327456   3004 R  41.2  17.5   0:23.93 mem.bash
+  11362 user      20   0  546548 327140   2944 R  41.2  17.5   0:23.93 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:43 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    645.1 free,   1112.8 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    606.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  555920 336696   3004 R  38.9  18.0   0:24.61 mem.bash
+  11362 user      20   0  555656 336116   2944 R  38.9  18.0   0:24.61 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  555920 336696   3004 R  38.9  18.0   0:24.61 mem.bash
+  11362 user      20   0  555656 336116   2944 R  38.9  18.0   0:24.61 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:45 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    627.0 free,   1130.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    588.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  565292 345936   3004 R  43.8  18.5   0:25.29 mem.bash
+  11362 user      20   0  564764 345356   2944 R  43.8  18.5   0:25.29 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  565292 345936   3004 R  43.8  18.5   0:25.29 mem.bash
+  11362 user      20   0  564764 345356   2944 R  43.8  18.5   0:25.29 mem2.bash
+  11854 user      20   0  274140   4432   3856 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:09:46 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    608.9 free,   1149.0 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    569.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  574532 355176   3004 R  44.4  19.0   0:25.98 mem.bash
+  11362 user      20   0  574136 354596   2944 R  44.4  19.0   0:25.99 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  574532 355176   3004 R  44.4  19.0   0:25.98 mem.bash
+  11362 user      20   0  574136 354596   2944 R  44.4  19.0   0:25.99 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:48 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    590.8 free,   1167.1 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    551.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  583904 364416   3004 R  44.4  19.5   0:26.66 mem.bash
+  11362 user      20   0  583244 363836   2944 R  38.9  19.4   0:26.66 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  583904 364416   3004 R  44.4  19.5   0:26.66 mem.bash
+  11362 user      20   0  583244 363836   2944 R  38.9  19.4   0:26.66 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:49 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    573.0 free,   1184.9 used,     69.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    534.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  592880 373656   3004 R  47.1  20.0   0:27.35 mem.bash
+  11362 user      20   0  592352 373076   2944 R  41.2  19.9   0:27.33 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  592880 373656   3004 R  47.1  20.0   0:27.35 mem.bash
+  11362 user      20   0  592352 373076   2944 R  41.2  19.9   0:27.33 mem2.bash
+      1 root      20   0  179196   3432   1452 S   0.0   0.2   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:51 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    549.7 free,   1203.2 used,     74.2 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    513.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  601856 382368   3004 R  43.8  20.4   0:28.01 mem.bash
+  11362 user      20   0  601592 382052   2944 R  43.8  20.4   0:28.02 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  601856 382368   3004 R  43.8  20.4   0:28.01 mem.bash
+  11362 user      20   0  601592 382052   2944 R  43.8  20.4   0:28.02 mem2.bash
+  11911 user      20   0  274140   4500   3928 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:09:52 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    530.7 free,   1222.1 used,     74.3 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    494.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  610568 391292   2944 R  52.9  20.9   0:28.72 mem2.bash
+  11361 user      20   0  610568 391344   3004 R  47.1  20.9   0:28.72 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  610568 391292   2944 R  52.9  20.9   0:28.72 mem2.bash
+  11361 user      20   0  610568 391344   3004 R  47.1  20.9   0:28.72 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:54 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    512.8 free,   1239.6 used,     74.6 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    476.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  619676 400268   2944 R  47.1  21.4   0:29.42 mem2.bash
+  11361 user      20   0  619148 399792   3004 R  41.2  21.4   0:29.41 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  619676 400268   2944 R  47.1  21.4   0:29.42 mem2.bash
+  11361 user      20   0  619148 399792   3004 R  41.2  21.4   0:29.41 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:55 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    494.2 free,   1258.0 used,     74.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    458.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  628916 409508   2944 R  47.1  21.9   0:30.13 mem2.bash
+  11361 user      20   0  628652 409296   3004 R  41.2  21.9   0:30.12 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  628916 409508   2944 R  47.1  21.9   0:30.13 mem2.bash
+  11361 user      20   0  628652 409296   3004 R  41.2  21.9   0:30.12 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:57 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    475.6 free,   1276.6 used,     74.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    439.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  638024 418800   3004 R  47.1  22.4   0:30.83 mem.bash
+  11362 user      20   0  638024 418484   2944 R  47.1  22.4   0:30.83 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  638024 418800   3004 R  47.1  22.4   0:30.83 mem.bash
+  11362 user      20   0  638024 418484   2944 R  47.1  22.4   0:30.83 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:09:58 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    456.1 free,   1295.8 used,     75.2 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    420.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  647528 428252   2944 R  44.4  22.9   0:31.56 mem2.bash
+  11361 user      20   0  647660 428304   3004 R  38.9  22.9   0:31.55 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  647528 428252   2944 R  44.4  22.9   0:31.56 mem2.bash
+  11361 user      20   0  647660 428304   3004 R  38.9  22.9   0:31.55 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:00 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    436.7 free,   1314.8 used,     75.5 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    400.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  657296 438072   3004 R  50.0  23.4   0:32.27 mem.bash
+  11362 user      20   0  657032 437492   2944 R  43.8  23.4   0:32.26 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  657296 438072   3004 R  50.0  23.4   0:32.27 mem.bash
+  11362 user      20   0  657032 437492   2944 R  43.8  23.4   0:32.26 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:01 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    417.3 free,   1334.1 used,     75.7 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    381.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  666932 447576   3004 R  44.4  23.9   0:32.98 mem.bash
+  11362 user      20   0  666668 447260   2944 R  38.9  23.9   0:32.98 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  666932 447576   3004 R  44.4  23.9   0:32.98 mem.bash
+  11362 user      20   0  666668 447260   2944 R  38.9  23.9   0:32.98 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:03 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    398.5 free,   1352.8 used,     75.7 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    362.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  676436 457080   3004 R  43.8  24.4   0:33.69 mem.bash
+  11362 user      20   0  676040 456500   2944 R  43.8  24.4   0:33.68 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  676436 457080   3004 R  43.8  24.4   0:33.69 mem.bash
+  11362 user      20   0  676040 456500   2944 R  43.8  24.4   0:33.68 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:04 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    379.3 free,   1371.9 used,     75.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    343.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  686204 466848   3004 R  42.1  25.0   0:34.40 mem.bash
+  11362 user      20   0  685544 466268   2944 R  36.8  24.9   0:34.40 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  686204 466848   3004 R  42.1  25.0   0:34.40 mem.bash
+  11362 user      20   0  685544 466268   2944 R  36.8  24.9   0:34.40 mem2.bash
+  12037 user      20   0  274140   4308   3736 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:10:06 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    360.6 free,   1390.6 used,     75.9 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    324.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  695576 476352   3004 R  50.0  25.5   0:35.11 mem.bash
+  11362 user      20   0  695048 475508   2944 R  43.8  25.4   0:35.10 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  695576 476352   3004 R  50.0  25.5   0:35.11 mem.bash
+  11362 user      20   0  695048 475508   2944 R  43.8  25.4   0:35.10 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:07 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    341.8 free,   1409.3 used,     76.0 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    306.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  705212 485856   3004 R  47.1  26.0   0:35.82 mem.bash
+  11362 user      20   0  704288 485012   2944 R  47.1  25.9   0:35.82 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  705212 485856   3004 R  47.1  26.0   0:35.82 mem.bash
+  11362 user      20   0  704288 485012   2944 R  47.1  25.9   0:35.82 mem2.bash
+      9 root      20   0       0      0      0 S   5.9   0.0   0:00.32 ksoftirqd/0
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:10:09 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    323.1 free,   1427.8 used,     76.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    287.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  713792 494252   2944 R  47.1  26.4   0:36.52 mem2.bash
+  11361 user      20   0  714584 495360   3004 R  41.2  26.5   0:36.52 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  713792 494252   2944 R  47.1  26.4   0:36.52 mem2.bash
+  11361 user      20   0  714584 495360   3004 R  41.2  26.5   0:36.52 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:10 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    302.8 free,   1447.2 used,     77.0 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    267.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  723428 504020   2944 R  50.0  26.9   0:37.24 mem2.bash
+  11361 user      20   0  724220 504864   3004 R  43.8  27.0   0:37.23 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  723428 504020   2944 R  50.0  26.9   0:37.24 mem2.bash
+  11361 user      20   0  724220 504864   3004 R  43.8  27.0   0:37.23 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:12 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    284.3 free,   1465.5 used,     77.3 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    249.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  733328 513840   3004 R  47.1  27.5   0:37.94 mem.bash
+  11362 user      20   0  732800 513524   2944 R  47.1  27.4   0:37.94 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  733328 513840   3004 R  47.1  27.5   0:37.94 mem.bash
+  11362 user      20   0  732800 513524   2944 R  47.1  27.4   0:37.94 mem2.bash
+  12107 user      20   0  274140   4428   3852 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:10:13 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    265.3 free,   1484.2 used,     77.6 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    230.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  742436 523028   2944 R  47.1  28.0   0:38.65 mem2.bash
+  11361 user      20   0  742568 523080   3004 R  41.2  28.0   0:38.64 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  742436 523028   2944 R  47.1  28.0   0:38.65 mem2.bash
+  11361 user      20   0  742568 523080   3004 R  41.2  28.0   0:38.64 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:15 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    246.1 free,   1503.3 used,     77.7 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    211.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  751940 532532   2944 R  50.0  28.5   0:39.35 mem2.bash
+  11361 user      20   0  752204 532848   3004 R  43.8  28.5   0:39.34 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  751940 532532   2944 R  50.0  28.5   0:39.35 mem2.bash
+  11361 user      20   0  752204 532848   3004 R  43.8  28.5   0:39.34 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:16 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    227.0 free,   1522.2 used,     77.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    192.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  761576 542036   2944 R  56.2  29.0   0:40.07 mem2.bash
+  11361 user      20   0  761840 542352   3004 R  50.0  29.0   0:40.06 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  761576 542036   2944 R  56.2  29.0   0:40.07 mem2.bash
+  11361 user      20   0  761840 542352   3004 R  50.0  29.0   0:40.06 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:18 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    208.3 free,   1540.9 used,     77.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    173.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  771344 552120   3004 R  47.1  29.5   0:40.77 mem.bash
+  11362 user      20   0  770948 551540   2944 R  47.1  29.5   0:40.76 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  771344 552120   3004 R  47.1  29.5   0:40.77 mem.bash
+  11362 user      20   0  770948 551540   2944 R  47.1  29.5   0:40.76 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:19 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    189.2 free,   1559.9 used,     77.9 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    154.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  780716 561308   2944 R  47.1  30.0   0:41.48 mem2.bash
+  11361 user      20   0  780848 561624   3004 R  41.2  30.0   0:41.47 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  780716 561308   2944 R  47.1  30.0   0:41.48 mem2.bash
+  11361 user      20   0  780848 561624   3004 R  41.2  30.0   0:41.47 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:21 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    169.9 free,   1579.1 used,     78.0 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    135.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  790748 571392   3004 R  47.1  30.5   0:42.19 mem.bash
+  11362 user      20   0  790088 570812   2944 R  41.2  30.5   0:42.18 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  790748 571392   3004 R  47.1  30.5   0:42.19 mem.bash
+  11362 user      20   0  790088 570812   2944 R  41.2  30.5   0:42.18 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:22 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    151.4 free,   1597.7 used,     78.0 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    116.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  800120 580632   3004 R  43.8  31.0   0:42.89 mem.bash
+  11362 user      20   0  799592 580052   2944 R  43.8  31.0   0:42.88 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  800120 580632   3004 R  43.8  31.0   0:42.89 mem.bash
+  11362 user      20   0  799592 580052   2944 R  43.8  31.0   0:42.88 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:24 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    132.2 free,   1616.6 used,     78.2 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.     97.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  809756 590400   3004 R  47.1  31.6   0:43.59 mem.bash
+  11362 user      20   0  808832 589292   2944 R  41.2  31.5   0:43.58 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  809756 590400   3004 R  47.1  31.6   0:43.59 mem.bash
+  11362 user      20   0  808832 589292   2944 R  41.2  31.5   0:43.58 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:25 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    110.5 free,   1635.5 used,     81.0 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.     77.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  818468 599060   2944 R  47.1  32.0   0:44.29 mem2.bash
+  11361 user      20   0  819260 599904   3004 R  41.2  32.1   0:44.28 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  818468 599060   2944 R  47.1  32.0   0:44.29 mem2.bash
+  11361 user      20   0  819260 599904   3004 R  41.2  32.1   0:44.28 mem.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:26 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     83.8 free,   1653.4 used,     89.9 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.     55.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  828104 608880   3004 R  43.8  32.5   0:44.97 mem.bash
+  11362 user      20   0  827444 608036   2944 R  43.8  32.5   0:44.97 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  828104 608880   3004 R  43.8  32.5   0:44.97 mem.bash
+  11362 user      20   0  827444 608036   2944 R  43.8  32.5   0:44.97 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:28 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     71.0 free,   1672.4 used,     83.6 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.     39.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  838268 618912   3004 R  43.8  33.1   0:45.70 mem.bash
+  11362 user      20   0  837080 617804   2944 R  43.8  33.0   0:45.70 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  838268 618912   3004 R  43.8  33.1   0:45.70 mem.bash
+  11362 user      20   0  837080 617804   2944 R  43.8  33.0   0:45.70 mem2.bash
+      1 root      20   0  179196   5340   3360 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:10:31 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     61.9 free,   1698.5 used,     66.6 buff/cache
+MiB Swap:    820.0 total,      0.0 free,    820.0 used.     21.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11361 user      20   0  851732 632228   2856 R  28.1  33.8   0:46.73 mem.bash
+  11362 user      20   0  850808 631336   2748 R  21.9  33.7   0:46.71 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11361 user      20   0  851732 632228   2856 R  28.1  33.8   0:46.73 mem.bash
+  11362 user      20   0  850808 631336   2748 R  21.9  33.7   0:46.71 mem2.bash
+      1 root      20   0  179196   4684   2704 S   0.0   0.3   0:05.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:11:35 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    614.5 free,   1123.8 used,     88.7 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    585.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  892652 671920   1476 R  32.7  35.9   0:51.61 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  892652 671920   1476 R  32.7  35.9   0:51.61 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:36 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    586.0 free,   1147.7 used,     93.3 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    559.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  916280 695416   1476 R  93.8  37.2   0:53.35 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  916280 695416   1476 R  93.8  37.2   0:53.35 mem2.bash
+    453 root       0 -20       0      0      0 I   6.2   0.0   0:00.85 kworker/0:1H-kblockd
+  12303 user      20   0  274140   4440   3868 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:11:37 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    566.8 free,   1165.2 used,     95.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    540.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  933044 712288   1732 R  93.8  38.1   0:54.62 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  933044 712288   1732 R  93.8  38.1   0:54.62 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:39 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    548.4 free,   1182.4 used,     96.2 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    522.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  949808 729184   1732 R  88.2  39.0   0:55.91 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  949808 729184   1732 R  88.2  39.0   0:55.91 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:40 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    530.3 free,   1198.7 used,     98.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    505.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  966176 745552   1732 R  87.5  39.8   0:57.16 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  966176 745552   1732 R  87.5  39.8   0:57.16 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:42 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    507.0 free,   1214.9 used,    105.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    485.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  982412 761656   1732 R  93.8  40.7   0:58.41 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  982412 761656   1732 R  93.8  40.7   0:58.41 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:43 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    489.3 free,   1231.4 used,    106.3 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    468.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0  998648 778024   1732 R  87.5  41.6   0:59.67 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0  998648 778024   1732 R  87.5  41.6   0:59.67 mem2.bash
+      1 root      20   0  179196   2976    996 R   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:44 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    472.9 free,   1247.6 used,    106.6 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    452.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1014884 794128   1732 R  88.2  42.4   1:00.93 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1014884 794128   1732 R  88.2  42.4   1:00.93 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:46 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    454.1 free,   1264.7 used,    108.2 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    434.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1031120 810496   1732 R  94.1  43.3   1:02.18 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1031120 810496   1732 R  94.1  43.3   1:02.18 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:47 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    437.5 free,   1281.3 used,    108.3 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    418.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1047752 827128   1732 R  94.1  44.2   1:03.45 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1047752 827128   1732 R  94.1  44.2   1:03.45 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:48 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    421.9 free,   1296.8 used,    108.3 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    402.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1063592 842968   1732 R  87.5  45.1   1:04.71 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1063592 842968   1732 R  87.5  45.1   1:04.71 mem2.bash
+  12429 user      20   0  274140   4556   3980 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:11:50 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    405.8 free,   1312.9 used,    108.4 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    386.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1079960 859336   1732 R  93.8  45.9   1:05.98 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1079960 859336   1732 R  93.8  45.9   1:05.98 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:51 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    389.6 free,   1329.0 used,    108.5 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    370.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1096196 875440   1732 R  88.2  46.8   1:07.24 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1096196 875440   1732 R  88.2  46.8   1:07.24 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:52 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    372.8 free,   1345.2 used,    109.0 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    353.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1112300 891808   1732 R  93.8  47.7   1:08.51 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1112300 891808   1732 R  93.8  47.7   1:08.51 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:54 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    356.0 free,   1361.6 used,    109.5 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    337.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1128668 907912   1732 R  82.4  48.5   1:09.77 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1128668 907912   1732 R  82.4  48.5   1:09.77 mem2.bash
+  11910 root      39  19  525624  34696  19136 R   5.9   1.9   0:01.11 dnf
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:11:55 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    339.1 free,   1378.1 used,    109.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    320.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1145300 924808   1732 R  99.9  49.4   1:11.04 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1145300 924808   1732 R  99.9  49.4   1:11.04 mem2.bash
+  11910 root      39  19  527892  35052  19316 R   6.7   1.9   0:01.13 dnf
+  12499 user      20   0  274140   4428   3856 R   6.7   0.2   0:00.01 top
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:11:57 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    321.4 free,   1395.7 used,    110.0 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    302.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1162460 941968   1732 R  87.5  50.3   1:12.31 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1162460 941968   1732 R  87.5  50.3   1:12.31 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:58 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    305.2 free,   1411.8 used,    110.1 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    286.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1178960 958336   1732 R  87.5  51.2   1:13.59 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1178960 958336   1732 R  87.5  51.2   1:13.59 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:11:59 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    287.9 free,   1428.5 used,    110.7 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    269.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1195328 974704   1732 R  93.8  52.1   1:14.88 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1195328 974704   1732 R  93.8  52.1   1:14.88 mem2.bash
+  11910 root      39  19  537912  36960  19744 R   6.2   2.0   0:01.18 dnf
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:12:01 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    271.8 free,   1444.3 used,    110.9 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    253.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1211300 990808   1732 R  93.8  53.0   1:16.13 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1211300 990808   1732 R  93.8  53.0   1:16.13 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:12:02 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    255.3 free,   1460.4 used,    111.4 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    237.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1227404 983.3m   1732 R  93.8  53.8   1:17.40 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1227404 983.3m   1732 R  93.8  53.8   1:17.40 mem2.bash
+    453 root       0 -20       0      0      0 I   6.2   0.0   0:00.87 kworker/0:1H-kblockd
+  12569 user      20   0  274140   4336   3764 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:12:03 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    235.7 free,   1476.3 used,    115.0 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    219.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1243508 998.8m   1732 R  88.2  54.7   1:18.66 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1243508 998.8m   1732 R  88.2  54.7   1:18.66 mem2.bash
+  10342 root      20   0       0      0      0 I   5.9   0.0   0:00.54 kworker/0:1-ata_sff
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:12:05 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    219.4 free,   1492.5 used,    115.2 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    203.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1259744   1.0g   1732 R  94.1  55.5   1:19.93 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1259744   1.0g   1732 R  94.1  55.5   1:19.93 mem2.bash
+  12597 user      20   0  274140   4540   3968 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:12:06 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    203.6 free,   1508.3 used,    115.2 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    187.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1275716   1.0g   1732 R  87.5  56.4   1:21.19 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1275716   1.0g   1732 R  87.5  56.4   1:21.19 mem2.bash
+  11910 root      39  19  541168  41900  23660 R   6.2   2.2   0:01.27 dnf
+  12611 user      20   0  274140   4420   3848 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:12:07 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    187.4 free,   1524.1 used,    115.5 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    171.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1291820   1.0g   1732 R  94.1  57.2   1:22.47 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1291820   1.0g   1732 R  94.1  57.2   1:22.47 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:12:09 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    170.9 free,   1540.4 used,    115.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    155.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1307924   1.0g   1732 R  93.8  58.1   1:23.73 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1307924   1.0g   1732 R  93.8  58.1   1:23.73 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:12:10 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    154.9 free,   1556.3 used,    115.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    139.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1324028   1.1g   1732 R  93.3  59.0   1:24.99 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1324028   1.1g   1732 R  93.3  59.0   1:24.99 mem2.bash
+  11910 root      39  19  544220  43184  24072 R   6.7   2.3   0:01.33 dnf
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:12:12 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    139.0 free,   1572.2 used,    115.9 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    123.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1340132   1.1g   1732 R  93.8  59.8   1:26.27 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1340132   1.1g   1732 R  93.8  59.8   1:26.27 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:12:13 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    122.4 free,   1587.9 used,    116.8 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.    107.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1355840   1.1g   1732 R  99.9  60.7   1:27.52 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1355840   1.1g   1732 R  99.9  60.7   1:27.52 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:12:14 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,    104.8 free,   1603.7 used,    118.6 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.     90.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1371548   1.1g   1732 R  82.4  61.5   1:28.75 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1371548   1.1g   1732 R  82.4  61.5   1:28.75 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:12:16 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     88.5 free,   1619.9 used,    118.6 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.     74.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1388312   1.1g   1732 R  93.8  62.4   1:30.03 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1388312   1.1g   1732 R  93.8  62.4   1:30.03 mem2.bash
+  11347 root      20   0       0      0      0 R   6.2   0.0   0:00.17 kworker/0:0-kdmflush
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:12:17 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     72.4 free,   1636.0 used,    118.6 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.     58.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1404680   1.1g   1732 R  88.2  63.3   1:31.30 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1404680   1.1g   1732 R  88.2  63.3   1:31.30 mem2.bash
+  11910 root      39  19  560116  44672  24864 R   5.9   2.4   0:01.43 dnf
+  12723 user      20   0  274140   4432   3860 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:12:18 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     55.8 free,   1652.7 used,    118.6 buff/cache
+MiB Swap:    820.0 total,      0.1 free,    819.9 used.     41.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1421708   1.1g   1732 R  93.8  64.2   1:32.57 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1421708   1.1g   1732 R  93.8  64.2   1:32.57 mem2.bash
+      1 root      20   0  179196   2976    996 S   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 11:12:21 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     89.9 free,   1656.6 used,     80.6 buff/cache
+MiB Swap:    820.0 total,      0.0 free,    820.0 used.     56.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1446128   1.2g   1732 R  43.8  65.5   1:34.38 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1446128   1.2g   1732 R  43.8  65.5   1:34.38 mem2.bash
+    651 root      20   0   94004   2220   1924 S   3.1   0.1   0:01.59 systemd-journal
+  12752 user      20   0  274140   4400   3824 R   3.1   0.2   0:00.01 top
+      1 root      20   0  179196   2976    996 R   0.0   0.2   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 11:12:22 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     72.0 free,   1682.5 used,     72.5 buff/cache
+MiB Swap:    820.0 total,      0.0 free,    820.0 used.     34.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1473188   1.2g   1732 R  83.3  66.9   1:36.40 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1473188   1.2g   1732 R  83.3  66.9   1:36.40 mem2.bash
+  12767 user      20   0  274140   4392   3820 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179196   5004   3024 S   0.0   0.3   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 11:12:24 AM
+Informattion about memory:
+MiB Mem :   1827.1 total,     68.7 free,   1702.9 used,     55.4 buff/cache
+MiB Swap:    820.0 total,      0.0 free,    820.0 used.     22.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+  11362 user      20   0 1494044   1.2g   1420 R  78.9  68.0   1:37.91 mem2.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  11362 user      20   0 1494044   1.2g   1420 R  78.9  68.0   1:37.91 mem2.bash
+  12781 user      20   0  274140   4184   3612 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179196   4980   3000 S   0.0   0.3   0:06.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Last info in dmesg: 
+[11772.556353] [ 7671]  1000  7671    84728    28098   303104     1009             0 mem.bash
+[11772.557911] [10259]  1000 10259    64928     9307   143360        0             0 mem.bash
