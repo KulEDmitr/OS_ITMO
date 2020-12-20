@@ -1,3 +1,4 @@
+chcp 65001
 mkdir C:\lab6
 systeminfo > C:\lab6\systeminfo.txt
 wmic os get Caption, FreePhysicalMemory, TotalVisibleMemorySize > C:\lab6\wmicos.txt
