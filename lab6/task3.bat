@@ -1,3 +1,4 @@
+chcp 65001
 net start > C:\lab6\services.txt
 net stop dnscache
 timeout /T 10
